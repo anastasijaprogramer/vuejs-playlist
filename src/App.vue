@@ -1,4 +1,5 @@
 <template>
+<!-- moramo da imamo jedan div u templateu koji ce predstavljati wrapper -->
     <div>
         <h1>{{ title }}</h1>
         <p>{{ greeting() }}</p>
