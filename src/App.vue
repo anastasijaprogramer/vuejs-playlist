@@ -6,7 +6,7 @@
 </template>
 
 <script>
-// Imports
+// nesting component locally
 import Ninjas from './Ninjas.vue';
 
 export default {
